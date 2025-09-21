@@ -1,0 +1,50 @@
+header {
+    background-color: orangered;
+    padding: 4px;
+}
+
+body {
+    color: black;
+    background-color: rgb(115, 5, 76);
+    margin-bottom: 13%;
+}
+
+.p {
+    color: white;
+    font-family: sans-serif;
+}
+
+div span {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+th {
+    border-top: none;
+    font-family: Lobster, cursive;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: yellowgreen;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.time {
+    background-color: rgb(225, 26, 23);
+}
+
+td {
+    background-color: rgb(200, 0, 255);
+    padding: 8px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
